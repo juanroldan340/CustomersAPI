@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1ihaytPsm8Q0UzqdvwDU44NCmS7XjCzoo/view?usp=shari
 
 ----------------------------------------------------------------------------------
 
-This an API developed in ASP.NET Core, you can do request like PUT, DELETE, GET y POST to modify Customers.
+This an API developed in ASP.NET Core, you can do request like PUT, DELETE, GET y POST to create, read, update or delete Customers.
 To execute the API, you'll need MySQL with CustomersDatabase installed, to download it follow the link:
 https://drive.google.com/file/d/1ihaytPsm8Q0UzqdvwDU44NCmS7XjCzoo/view?usp=sharing
 
